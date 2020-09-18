@@ -22,7 +22,7 @@ THEN I find a concise, descriptive title" - Also Suspicious Man in the Alleyway
 
 He told me the above assuming that it was some sort of riddle, couldn't make it out though.
 
-Finish Product: https://prlamkin.github.io/Refactor-1/
+Finish Product: https://prlamkin.github.io/Refactor-1/Develop/
 
 Things that went well:
 Really enjoyed citing the semantic tags to the project, giving a professional touch to it.
